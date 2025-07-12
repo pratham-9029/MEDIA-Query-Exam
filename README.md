@@ -2,6 +2,9 @@
 
 Welcome to **Victory Restaurant**, a clean and responsive blog-style restaurant website template. This project is built using **HTML5** and **CSS3**, and features a beautiful hero banner, service highlights, and responsive navigation — perfect for showcasing a modern food blog or restaurant service online.
 
+### Reference Website : https://templatemo.com/live/templatemo_507_victory
+### Live Preview : https://media-query-exam-nine.vercel.app/
+
 ## 🚀 Features
 
 - Fully Responsive Layout
@@ -17,5 +20,3 @@ Welcome to **Victory Restaurant**, a clean and responsive blog-style restaurant 
   - MD (up to 991px)
   - SM (up to 767px)
   - XS (up to 575px)
-### Reference Website : https://templatemo.com/live/templatemo_507_victory
-### Live Preview : https://media-query-exam-nine.vercel.app/
