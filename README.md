@@ -17,3 +17,5 @@ Welcome to **Victory Restaurant**, a clean and responsive blog-style restaurant 
   - MD (up to 991px)
   - SM (up to 767px)
   - XS (up to 575px)
+## Reference Website : https://templatemo.com/live/templatemo_507_victory
+## Live Preview : https://media-query-exam-nine.vercel.app/
